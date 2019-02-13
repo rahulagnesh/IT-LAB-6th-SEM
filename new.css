@@ -1,0 +1,27 @@
+p.first
+{
+	font-size:60px;
+	color:red;
+	text-align:left;
+}
+
+p.second
+{
+	font-size:50px;
+	color:green;
+	text-align:center;
+}
+
+div.third
+{
+	font-size:40px;
+	color:green;
+	text-align:right;
+}
+
+body
+{
+	background-image:url(1080p-HD-Image-Nature.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}

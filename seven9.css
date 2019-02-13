@@ -1,0 +1,52 @@
+#lel
+{
+	border:5;
+	border-style:solid;
+	border-width:5px;
+	border-color:red;
+	text-align:center;
+	color:green;
+}
+
+#lul
+{
+	border:5;
+	border-style:dotted;
+	border-width:5px;
+	border-color:red;
+	text-align:center;
+	color:green;
+}
+
+#lol
+{
+	border:5;
+	border-style:dashed;
+	border-width:5px;
+	border-color:red;
+	text-align:center;
+	color:green;
+}
+
+#mix
+{
+	border:5;
+	border-top-style:dotted;
+	border-bottom-style:dashed;
+	border-left-style:solid;
+	border-right-style:dotted;
+	border-color:red;
+	text-align:center;
+	color:green;
+}
+
+a:hover.google
+{
+	color:yellow;
+	
+}
+
+a:active.flipkart
+{
+	color:green;
+}

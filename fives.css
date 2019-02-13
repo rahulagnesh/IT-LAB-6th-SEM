@@ -1,0 +1,54 @@
+
+div p
+	{
+		font-size:30px;
+		color:green;
+		font-style:italic;
+		text-align:center;
+		background-color:yellow;
+	}
+body
+{
+	background-image:url("1080p-HD-Image-Nature.jpg");
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	border:4;
+}
+
+#capital
+{
+	text-transform:capitalize;
+	text-align:center;
+	color:yellow;
+	font-size:60px;
+	font-family:times new roman;
+	font-style:italic;
+}
+
+#uppercase
+{
+	text-transform:uppercase;
+	text-align:center;
+	color:green;
+	font-size:50px;
+	font-weight:bolder;
+	
+}
+
+#lowercase
+{
+	text-transform:lowercase;
+	text-align:center;
+	color:red;
+	font-size:40px;
+	font-weight:bolder;
+}
+
+#shadow
+{
+	text-shadow:3px 1px 2px yellow;
+	font-weight:bolder;
+}
+
+
+
